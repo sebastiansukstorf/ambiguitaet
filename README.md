@@ -7,7 +7,7 @@ Dieses Repository enthält das wissenschaftliche Manuskript:
 
 ## Inhalte
 
-- Manuskript in `.qmd` (Quarto) Format
+- Manuskript in `index.qmd` (Quarto) Format
 - Literaturverzeichnis (`.bib`) und CSL-Zitationsstil
 - Exportmöglichkeiten als HTML, PDF und Word
 
@@ -16,4 +16,4 @@ Dieses Repository enthält das wissenschaftliche Manuskript:
 Voraussetzung: [Quarto](https://quarto.org) ist installiert.
 
 ```bash
-quarto render manuscript.qmd
+quarto render index.qmd
