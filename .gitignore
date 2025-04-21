@@ -1,0 +1,13 @@
+# Quarto Output
+*.log
+*.aux
+*.out
+*.toc
+*.bbl
+*.blg
+*.lof
+*.lot
+_frozen/
+_quarto/
+*.pdf
+*.docx

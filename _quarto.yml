@@ -1,0 +1,11 @@
+project:
+  type: manuscript
+
+execute:
+  freeze: auto  # Nur aktualisieren, wenn sich etwas ändert
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: article
